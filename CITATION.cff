@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Decoding Brain Tumors: An Attention-Guided Hybrid Learning Framework for Multi-Class Classification of MRI Images"
+message: "If you use this repository, please cite the associated publication."
+type: article
+
+authors:
+  - family-names: "Bandyopadhyay"
+    given-names: "Soham"
+  - family-names: "Banerjee"
+    given-names: "Arnab"
+  - family-names: "Roy"
+    given-names: "Bhumik"
+  - family-names: "Lodh"
+    given-names: "Ankur"
+
+doi: "10.1007/s41870-025-02946-7"
+
+journal: "International Journal of Information Technology"
+year: 2025
+
+url: "https://doi.org/10.1007/s41870-025-02946-7"
